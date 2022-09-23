@@ -1,7 +1,6 @@
 {
   "name": "mongoose-intro",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -18,5 +17,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZihSilva/delivery-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZihSilva/delivery-api/issues"
+  },
+  "homepage": "https://github.com/ZihSilva/delivery-api#readme",
+  "description": ""
 }
